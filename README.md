@@ -1,8 +1,8 @@
 # Modelling-Complex-Survey-Data-Using-R-SAS-SPSS-and-Stata
 A Comparison Using CLSA Datasets
 
-This is the code repository of [Modelling-Complex-Survey-Data-Using-R-SAS-SPSS-and-Stata
-A Comparison Using CLSA Datasets] (https://rpubs.com/hso/1076001)
+This is the code repository of "Modelling-Complex-Survey-Data-Using-R-SAS-SPSS-and-Stata
+A Comparison Using CLSA Datasets" (https://rpubs.com/hso/1076001)
 
 
 
