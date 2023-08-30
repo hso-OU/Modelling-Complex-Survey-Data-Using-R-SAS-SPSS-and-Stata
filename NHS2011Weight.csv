@@ -1,0 +1,801 @@
+SEX_ASK_TRM,Age_group_5,WGHTS_PROV_TRM,DCS.groups,Education,NHS_Weight
+F,45-48,AB,DCS1,Higher Education lower,10765
+F,45-48,AB,DCS1,Higher Education upper,11805
+F,45-48,AB,DCS1,Low Education,3205
+F,45-48,AB,DCS1,Medium Education,10200
+F,45-48,AB,Non_DCS,Higher Education lower,23525
+F,45-48,AB,Non_DCS,Higher Education upper,14310
+F,45-48,AB,Non_DCS,Low Education,9300
+F,45-48,AB,Non_DCS,Medium Education,25360
+F,45-48,BC,DCS1,Higher Education lower,23210
+F,45-48,BC,DCS1,Higher Education upper,23990
+F,45-48,BC,DCS1,Low Education,5955
+F,45-48,BC,DCS1,Medium Education,22680
+F,45-48,BC,DCS2,Higher Education lower,3765
+F,45-48,BC,DCS2,Higher Education upper,3530
+F,45-48,BC,DCS2,Low Education,870
+F,45-48,BC,DCS2,Medium Education,3455
+F,45-48,BC,Non_DCS,Higher Education lower,18070
+F,45-48,BC,Non_DCS,Higher Education upper,8325
+F,45-48,BC,Non_DCS,Low Education,5270
+F,45-48,BC,Non_DCS,Medium Education,20100
+F,45-48,MB,DCS1,Higher Education lower,6330
+F,45-48,MB,DCS1,Higher Education upper,5805
+F,45-48,MB,DCS1,Low Education,2325
+F,45-48,MB,DCS1,Medium Education,6990
+F,45-48,MB,Non_DCS,Higher Education lower,3850
+F,45-48,MB,Non_DCS,Higher Education upper,1890
+F,45-48,MB,Non_DCS,Low Education,2070
+F,45-48,MB,Non_DCS,Medium Education,5145
+F,45-48,NB,Non_DCS,Higher Education lower,7400
+F,45-48,NB,Non_DCS,Higher Education upper,4630
+F,45-48,NB,Non_DCS,Low Education,3170
+F,45-48,NB,Non_DCS,Medium Education,9510
+F,45-48,NL,DCS1,Higher Education lower,2390
+F,45-48,NL,DCS1,Higher Education upper,1385
+F,45-48,NL,DCS1,Low Education,500
+F,45-48,NL,DCS1,Medium Education,2030
+F,45-48,NL,Non_DCS,Higher Education lower,3005
+F,45-48,NL,Non_DCS,Higher Education upper,990
+F,45-48,NL,Non_DCS,Low Education,2405
+F,45-48,NL,Non_DCS,Medium Education,3940
+F,45-48,NS,DCS1,Higher Education lower,4035
+F,45-48,NS,DCS1,Higher Education upper,3825
+F,45-48,NS,DCS1,Low Education,1080
+F,45-48,NS,DCS1,Medium Education,3280
+F,45-48,NS,Non_DCS,Higher Education lower,6495
+F,45-48,NS,Non_DCS,Higher Education upper,2945
+F,45-48,NS,Non_DCS,Low Education,2490
+F,45-48,NS,Non_DCS,Medium Education,6430
+F,45-48,ON,DCS1,Higher Education lower,9215
+F,45-48,ON,DCS1,Higher Education upper,6730
+F,45-48,ON,DCS1,Low Education,2105
+F,45-48,ON,DCS1,Medium Education,7430
+F,45-48,ON,DCS2,Higher Education lower,7775
+F,45-48,ON,DCS2,Higher Education upper,10560
+F,45-48,ON,DCS2,Low Education,1555
+F,45-48,ON,DCS2,Medium Education,6715
+F,45-48,ON,Non_DCS,Higher Education lower,123290
+F,45-48,ON,Non_DCS,Higher Education upper,96155
+F,45-48,ON,Non_DCS,Low Education,37250
+F,45-48,ON,Non_DCS,Medium Education,118510
+F,45-48,PE,Non_DCS,Higher Education lower,1470
+F,45-48,PE,Non_DCS,Higher Education upper,980
+F,45-48,PE,Non_DCS,Low Education,445
+F,45-48,PE,Non_DCS,Medium Education,1535
+F,45-48,QC,DCS1,Higher Education lower,22215
+F,45-48,QC,DCS1,Higher Education upper,24620
+F,45-48,QC,DCS1,Low Education,9695
+F,45-48,QC,DCS1,Medium Education,26270
+F,45-48,QC,DCS2,Higher Education lower,1680
+F,45-48,QC,DCS2,Higher Education upper,1390
+F,45-48,QC,DCS2,Low Education,985
+F,45-48,QC,DCS2,Medium Education,3075
+F,45-48,QC,Non_DCS,Higher Education lower,43840
+F,45-48,QC,Non_DCS,Higher Education upper,25955
+F,45-48,QC,Non_DCS,Low Education,20360
+F,45-48,QC,Non_DCS,Medium Education,65270
+F,45-48,SK,Non_DCS,Higher Education lower,9435
+F,45-48,SK,Non_DCS,Higher Education upper,5240
+F,45-48,SK,Non_DCS,Low Education,3265
+F,45-48,SK,Non_DCS,Medium Education,10675
+F,49-54,AB,DCS1,Higher Education lower,16520
+F,49-54,AB,DCS1,Higher Education upper,15165
+F,49-54,AB,DCS1,Low Education,5320
+F,49-54,AB,DCS1,Medium Education,16705
+F,49-54,AB,Non_DCS,Higher Education lower,33745
+F,49-54,AB,Non_DCS,Higher Education upper,18010
+F,49-54,AB,Non_DCS,Low Education,15665
+F,49-54,AB,Non_DCS,Medium Education,43240
+F,49-54,BC,DCS1,Higher Education lower,32500
+F,49-54,BC,DCS1,Higher Education upper,29805
+F,49-54,BC,DCS1,Low Education,10215
+F,49-54,BC,DCS1,Medium Education,37490
+F,49-54,BC,DCS2,Higher Education lower,5940
+F,49-54,BC,DCS2,Higher Education upper,5230
+F,49-54,BC,DCS2,Low Education,1235
+F,49-54,BC,DCS2,Medium Education,7055
+F,49-54,BC,Non_DCS,Higher Education lower,27510
+F,49-54,BC,Non_DCS,Higher Education upper,12080
+F,49-54,BC,Non_DCS,Low Education,9605
+F,49-54,BC,Non_DCS,Medium Education,34045
+F,49-54,MB,DCS1,Higher Education lower,9150
+F,49-54,MB,DCS1,Higher Education upper,7640
+F,49-54,MB,DCS1,Low Education,4155
+F,49-54,MB,DCS1,Medium Education,11015
+F,49-54,MB,Non_DCS,Higher Education lower,5830
+F,49-54,MB,Non_DCS,Higher Education upper,2295
+F,49-54,MB,Non_DCS,Low Education,3555
+F,49-54,MB,Non_DCS,Medium Education,7695
+F,49-54,NB,Non_DCS,Higher Education lower,10055
+F,49-54,NB,Non_DCS,Higher Education upper,5305
+F,49-54,NB,Non_DCS,Low Education,7040
+F,49-54,NB,Non_DCS,Medium Education,15870
+F,49-54,NL,DCS1,Higher Education lower,3450
+F,49-54,NL,DCS1,Higher Education upper,1735
+F,49-54,NL,DCS1,Low Education,1195
+F,49-54,NL,DCS1,Medium Education,3250
+F,49-54,NL,Non_DCS,Higher Education lower,4705
+F,49-54,NL,Non_DCS,Higher Education upper,1065
+F,49-54,NL,Non_DCS,Low Education,4570
+F,49-54,NL,Non_DCS,Medium Education,6580
+F,49-54,NS,DCS1,Higher Education lower,5615
+F,49-54,NS,DCS1,Higher Education upper,4825
+F,49-54,NS,DCS1,Low Education,1865
+F,49-54,NS,DCS1,Medium Education,6010
+F,49-54,NS,Non_DCS,Higher Education lower,9700
+F,49-54,NS,Non_DCS,Higher Education upper,4720
+F,49-54,NS,Non_DCS,Low Education,5010
+F,49-54,NS,Non_DCS,Medium Education,10085
+F,49-54,ON,DCS1,Higher Education lower,12325
+F,49-54,ON,DCS1,Higher Education upper,7915
+F,49-54,ON,DCS1,Low Education,4145
+F,49-54,ON,DCS1,Medium Education,12330
+F,49-54,ON,DCS2,Higher Education lower,11415
+F,49-54,ON,DCS2,Higher Education upper,13375
+F,49-54,ON,DCS2,Low Education,3035
+F,49-54,ON,DCS2,Medium Education,11050
+F,49-54,ON,Non_DCS,Higher Education lower,166325
+F,49-54,ON,Non_DCS,Higher Education upper,118820
+F,49-54,ON,Non_DCS,Low Education,64245
+F,49-54,ON,Non_DCS,Medium Education,189790
+F,49-54,PE,Non_DCS,Higher Education lower,2570
+F,49-54,PE,Non_DCS,Higher Education upper,1045
+F,49-54,PE,Non_DCS,Low Education,690
+F,49-54,PE,Non_DCS,Medium Education,2775
+F,49-54,QC,DCS1,Higher Education lower,30395
+F,49-54,QC,DCS1,Higher Education upper,31695
+F,49-54,QC,DCS1,Low Education,17460
+F,49-54,QC,DCS1,Medium Education,43795
+F,49-54,QC,DCS2,Higher Education lower,2895
+F,49-54,QC,DCS2,Higher Education upper,1905
+F,49-54,QC,DCS2,Low Education,2095
+F,49-54,QC,DCS2,Medium Education,4980
+F,49-54,QC,Non_DCS,Higher Education lower,61985
+F,49-54,QC,Non_DCS,Higher Education upper,33780
+F,49-54,QC,Non_DCS,Low Education,44125
+F,49-54,QC,Non_DCS,Medium Education,111820
+F,49-54,SK,Non_DCS,Higher Education lower,13210
+F,49-54,SK,Non_DCS,Higher Education upper,7250
+F,49-54,SK,Non_DCS,Low Education,5845
+F,49-54,SK,Non_DCS,Medium Education,18595
+F,55-64,AB,DCS1,Higher Education lower,18925
+F,55-64,AB,DCS1,Higher Education upper,15555
+F,55-64,AB,DCS1,Low Education,7390
+F,55-64,AB,DCS1,Medium Education,20090
+F,55-64,AB,Non_DCS,Higher Education lower,39910
+F,55-64,AB,Non_DCS,Higher Education upper,24710
+F,55-64,AB,Non_DCS,Low Education,21890
+F,55-64,AB,Non_DCS,Medium Education,53580
+F,55-64,BC,DCS1,Higher Education lower,38135
+F,55-64,BC,DCS1,Higher Education upper,35420
+F,55-64,BC,DCS1,Low Education,19970
+F,55-64,BC,DCS1,Medium Education,51930
+F,55-64,BC,DCS2,Higher Education lower,8985
+F,55-64,BC,DCS2,Higher Education upper,8800
+F,55-64,BC,DCS2,Low Education,1980
+F,55-64,BC,DCS2,Medium Education,10220
+F,55-64,BC,Non_DCS,Higher Education lower,39005
+F,55-64,BC,Non_DCS,Higher Education upper,20685
+F,55-64,BC,Non_DCS,Low Education,16980
+F,55-64,BC,Non_DCS,Medium Education,52215
+F,55-64,MB,DCS1,Higher Education lower,11385
+F,55-64,MB,DCS1,Higher Education upper,10025
+F,55-64,MB,DCS1,Low Education,7585
+F,55-64,MB,DCS1,Medium Education,16480
+F,55-64,MB,Non_DCS,Higher Education lower,7285
+F,55-64,MB,Non_DCS,Higher Education upper,3890
+F,55-64,MB,Non_DCS,Low Education,6100
+F,55-64,MB,Non_DCS,Medium Education,10200
+F,55-64,NB,Non_DCS,Higher Education lower,12460
+F,55-64,NB,Non_DCS,Higher Education upper,8255
+F,55-64,NB,Non_DCS,Low Education,14145
+F,55-64,NB,Non_DCS,Medium Education,21890
+F,55-64,NL,DCS1,Higher Education lower,4040
+F,55-64,NL,DCS1,Higher Education upper,2735
+F,55-64,NL,DCS1,Low Education,2240
+F,55-64,NL,DCS1,Medium Education,5170
+F,55-64,NL,Non_DCS,Higher Education lower,5510
+F,55-64,NL,Non_DCS,Higher Education upper,2000
+F,55-64,NL,Non_DCS,Low Education,10210
+F,55-64,NL,Non_DCS,Medium Education,9850
+F,55-64,NS,DCS1,Higher Education lower,6915
+F,55-64,NS,DCS1,Higher Education upper,6115
+F,55-64,NS,DCS1,Low Education,3555
+F,55-64,NS,DCS1,Medium Education,7955
+F,55-64,NS,Non_DCS,Higher Education lower,12830
+F,55-64,NS,Non_DCS,Higher Education upper,5970
+F,55-64,NS,Non_DCS,Low Education,10055
+F,55-64,NS,Non_DCS,Medium Education,16500
+F,55-64,ON,DCS1,Higher Education lower,14530
+F,55-64,ON,DCS1,Higher Education upper,9560
+F,55-64,ON,DCS1,Low Education,7570
+F,55-64,ON,DCS1,Medium Education,18065
+F,55-64,ON,DCS2,Higher Education lower,13325
+F,55-64,ON,DCS2,Higher Education upper,16835
+F,55-64,ON,DCS2,Low Education,4865
+F,55-64,ON,DCS2,Medium Education,15175
+F,55-64,ON,Non_DCS,Higher Education lower,195415
+F,55-64,ON,Non_DCS,Higher Education upper,143935
+F,55-64,ON,Non_DCS,Low Education,124795
+F,55-64,ON,Non_DCS,Medium Education,266340
+F,55-64,PE,Non_DCS,Higher Education lower,3420
+F,55-64,PE,Non_DCS,Higher Education upper,1945
+F,55-64,PE,Non_DCS,Low Education,1630
+F,55-64,PE,Non_DCS,Medium Education,3355
+F,55-64,QC,DCS1,Higher Education lower,37910
+F,55-64,QC,DCS1,Higher Education upper,38815
+F,55-64,QC,DCS1,Low Education,33030
+F,55-64,QC,DCS1,Medium Education,63695
+F,55-64,QC,DCS2,Higher Education lower,4095
+F,55-64,QC,DCS2,Higher Education upper,2835
+F,55-64,QC,DCS2,Low Education,3785
+F,55-64,QC,DCS2,Medium Education,7850
+F,55-64,QC,Non_DCS,Higher Education lower,80420
+F,55-64,QC,Non_DCS,Higher Education upper,42810
+F,55-64,QC,Non_DCS,Low Education,76220
+F,55-64,QC,Non_DCS,Medium Education,157415
+F,55-64,SK,Non_DCS,Higher Education lower,17340
+F,55-64,SK,Non_DCS,Higher Education upper,9560
+F,55-64,SK,Non_DCS,Low Education,10355
+F,55-64,SK,Non_DCS,Medium Education,23655
+F,65-74,AB,DCS1,Higher Education lower,7950
+F,65-74,AB,DCS1,Higher Education upper,4910
+F,65-74,AB,DCS1,Low Education,7585
+F,65-74,AB,DCS1,Medium Education,10785
+F,65-74,AB,Non_DCS,Higher Education lower,19325
+F,65-74,AB,Non_DCS,Higher Education upper,8640
+F,65-74,AB,Non_DCS,Low Education,22780
+F,65-74,AB,Non_DCS,Medium Education,27915
+F,65-74,BC,DCS1,Higher Education lower,19920
+F,65-74,BC,DCS1,Higher Education upper,14090
+F,65-74,BC,DCS1,Low Education,21325
+F,65-74,BC,DCS1,Medium Education,29140
+F,65-74,BC,DCS2,Higher Education lower,5150
+F,65-74,BC,DCS2,Higher Education upper,3935
+F,65-74,BC,DCS2,Low Education,2445
+F,65-74,BC,DCS2,Medium Education,6075
+F,65-74,BC,Non_DCS,Higher Education lower,21415
+F,65-74,BC,Non_DCS,Higher Education upper,8940
+F,65-74,BC,Non_DCS,Low Education,20935
+F,65-74,BC,Non_DCS,Medium Education,31475
+F,65-74,MB,DCS1,Higher Education lower,5450
+F,65-74,MB,DCS1,Higher Education upper,3655
+F,65-74,MB,DCS1,Low Education,6950
+F,65-74,MB,DCS1,Medium Education,9465
+F,65-74,MB,Non_DCS,Higher Education lower,3970
+F,65-74,MB,Non_DCS,Higher Education upper,1410
+F,65-74,MB,Non_DCS,Low Education,6490
+F,65-74,MB,Non_DCS,Medium Education,5840
+F,65-74,NB,Non_DCS,Higher Education lower,7365
+F,65-74,NB,Non_DCS,Higher Education upper,3145
+F,65-74,NB,Non_DCS,Low Education,13055
+F,65-74,NB,Non_DCS,Medium Education,10960
+F,65-74,NL,DCS1,Higher Education lower,1700
+F,65-74,NL,DCS1,Higher Education upper,1085
+F,65-74,NL,DCS1,Low Education,2040
+F,65-74,NL,DCS1,Medium Education,2635
+F,65-74,NL,Non_DCS,Higher Education lower,2145
+F,65-74,NL,Non_DCS,Higher Education upper,600
+F,65-74,NL,Non_DCS,Low Education,9420
+F,65-74,NL,Non_DCS,Medium Education,4575
+F,65-74,NS,DCS1,Higher Education lower,3625
+F,65-74,NS,DCS1,Higher Education upper,2035
+F,65-74,NS,DCS1,Low Education,3090
+F,65-74,NS,DCS1,Medium Education,4550
+F,65-74,NS,Non_DCS,Higher Education lower,7275
+F,65-74,NS,Non_DCS,Higher Education upper,2555
+F,65-74,NS,Non_DCS,Low Education,11245
+F,65-74,NS,Non_DCS,Medium Education,8860
+F,65-74,ON,DCS1,Higher Education lower,7300
+F,65-74,ON,DCS1,Higher Education upper,3640
+F,65-74,ON,DCS1,Low Education,9435
+F,65-74,ON,DCS1,Medium Education,11225
+F,65-74,ON,DCS2,Higher Education lower,7420
+F,65-74,ON,DCS2,Higher Education upper,7405
+F,65-74,ON,DCS2,Low Education,5975
+F,65-74,ON,DCS2,Medium Education,9415
+F,65-74,ON,Non_DCS,Higher Education lower,97435
+F,65-74,ON,Non_DCS,Higher Education upper,58145
+F,65-74,ON,Non_DCS,Low Education,145755
+F,65-74,ON,Non_DCS,Medium Education,152450
+F,65-74,PE,Non_DCS,Higher Education lower,1955
+F,65-74,PE,Non_DCS,Higher Education upper,570
+F,65-74,PE,Non_DCS,Low Education,1840
+F,65-74,PE,Non_DCS,Medium Education,2025
+F,65-74,QC,DCS1,Higher Education lower,21815
+F,65-74,QC,DCS1,Higher Education upper,17330
+F,65-74,QC,DCS1,Low Education,39835
+F,65-74,QC,DCS1,Medium Education,38630
+F,65-74,QC,DCS2,Higher Education lower,2280
+F,65-74,QC,DCS2,Higher Education upper,1470
+F,65-74,QC,DCS2,Low Education,3950
+F,65-74,QC,DCS2,Medium Education,4160
+F,65-74,QC,Non_DCS,Higher Education lower,41365
+F,65-74,QC,Non_DCS,Higher Education upper,18285
+F,65-74,QC,Non_DCS,Low Education,85465
+F,65-74,QC,Non_DCS,Medium Education,77270
+F,65-74,SK,Non_DCS,Higher Education lower,9395
+F,65-74,SK,Non_DCS,Higher Education upper,3360
+F,65-74,SK,Non_DCS,Low Education,12105
+F,65-74,SK,Non_DCS,Medium Education,12320
+F,75-85,AB,DCS1,Higher Education lower,4035
+F,75-85,AB,DCS1,Higher Education upper,1945
+F,75-85,AB,DCS1,Low Education,7120
+F,75-85,AB,DCS1,Medium Education,6900
+F,75-85,AB,Non_DCS,Higher Education lower,8580
+F,75-85,AB,Non_DCS,Higher Education upper,2835
+F,75-85,AB,Non_DCS,Low Education,20745
+F,75-85,AB,Non_DCS,Medium Education,14850
+F,75-85,BC,DCS1,Higher Education lower,9440
+F,75-85,BC,DCS1,Higher Education upper,4950
+F,75-85,BC,DCS1,Low Education,21075
+F,75-85,BC,DCS1,Medium Education,19200
+F,75-85,BC,DCS2,Higher Education lower,3285
+F,75-85,BC,DCS2,Higher Education upper,1805
+F,75-85,BC,DCS2,Low Education,3305
+F,75-85,BC,DCS2,Medium Education,4515
+F,75-85,BC,Non_DCS,Higher Education lower,10880
+F,75-85,BC,Non_DCS,Higher Education upper,3050
+F,75-85,BC,Non_DCS,Low Education,17875
+F,75-85,BC,Non_DCS,Medium Education,18200
+F,75-85,MB,DCS1,Higher Education lower,3160
+F,75-85,MB,DCS1,Higher Education upper,1450
+F,75-85,MB,DCS1,Low Education,7970
+F,75-85,MB,DCS1,Medium Education,6810
+F,75-85,MB,Non_DCS,Higher Education lower,2265
+F,75-85,MB,Non_DCS,Higher Education upper,415
+F,75-85,MB,Non_DCS,Low Education,6325
+F,75-85,MB,Non_DCS,Medium Education,3090
+F,75-85,NB,Non_DCS,Higher Education lower,3465
+F,75-85,NB,Non_DCS,Higher Education upper,1060
+F,75-85,NB,Non_DCS,Low Education,11475
+F,75-85,NB,Non_DCS,Medium Education,5480
+F,75-85,NL,DCS1,Higher Education lower,705
+F,75-85,NL,DCS1,Higher Education upper,210
+F,75-85,NL,DCS1,Low Education,1925
+F,75-85,NL,DCS1,Medium Education,1350
+F,75-85,NL,Non_DCS,Higher Education lower,790
+F,75-85,NL,Non_DCS,Higher Education upper,105
+F,75-85,NL,Non_DCS,Low Education,6510
+F,75-85,NL,Non_DCS,Medium Education,1860
+F,75-85,NS,DCS1,Higher Education lower,1945
+F,75-85,NS,DCS1,Higher Education upper,985
+F,75-85,NS,DCS1,Low Education,2935
+F,75-85,NS,DCS1,Medium Education,2635
+F,75-85,NS,Non_DCS,Higher Education lower,3780
+F,75-85,NS,Non_DCS,Higher Education upper,815
+F,75-85,NS,Non_DCS,Low Education,9025
+F,75-85,NS,Non_DCS,Medium Education,4545
+F,75-85,ON,DCS1,Higher Education lower,4190
+F,75-85,ON,DCS1,Higher Education upper,1255
+F,75-85,ON,DCS1,Low Education,10300
+F,75-85,ON,DCS1,Medium Education,8105
+F,75-85,ON,DCS2,Higher Education lower,3975
+F,75-85,ON,DCS2,Higher Education upper,2605
+F,75-85,ON,DCS2,Low Education,5790
+F,75-85,ON,DCS2,Medium Education,6895
+F,75-85,ON,Non_DCS,Higher Education lower,48885
+F,75-85,ON,Non_DCS,Higher Education upper,22440
+F,75-85,ON,Non_DCS,Low Education,135495
+F,75-85,ON,Non_DCS,Medium Education,96640
+F,75-85,PE,Non_DCS,Higher Education lower,1000
+F,75-85,PE,Non_DCS,Higher Education upper,215
+F,75-85,PE,Non_DCS,Low Education,1760
+F,75-85,PE,Non_DCS,Medium Education,1000
+F,75-85,QC,DCS1,Higher Education lower,10105
+F,75-85,QC,DCS1,Higher Education upper,6125
+F,75-85,QC,DCS1,Low Education,41215
+F,75-85,QC,DCS1,Medium Education,25360
+F,75-85,QC,DCS2,Higher Education lower,995
+F,75-85,QC,DCS2,Higher Education upper,570
+F,75-85,QC,DCS2,Low Education,3525
+F,75-85,QC,DCS2,Medium Education,2255
+F,75-85,QC,Non_DCS,Higher Education lower,14485
+F,75-85,QC,Non_DCS,Higher Education upper,4515
+F,75-85,QC,Non_DCS,Low Education,72025
+F,75-85,QC,Non_DCS,Medium Education,34820
+F,75-85,SK,Non_DCS,Higher Education lower,5875
+F,75-85,SK,Non_DCS,Higher Education upper,1385
+F,75-85,SK,Non_DCS,Low Education,13585
+F,75-85,SK,Non_DCS,Medium Education,8920
+M,45-48,AB,DCS1,Higher Education lower,8465
+M,45-48,AB,DCS1,Higher Education upper,12640
+M,45-48,AB,DCS1,Low Education,3790
+M,45-48,AB,DCS1,Medium Education,11200
+M,45-48,AB,Non_DCS,Higher Education lower,16455
+M,45-48,AB,Non_DCS,Higher Education upper,12550
+M,45-48,AB,Non_DCS,Low Education,10520
+M,45-48,AB,Non_DCS,Medium Education,31960
+M,45-48,BC,DCS1,Higher Education lower,16815
+M,45-48,BC,DCS1,Higher Education upper,24515
+M,45-48,BC,DCS1,Low Education,6375
+M,45-48,BC,DCS1,Medium Education,24175
+M,45-48,BC,DCS2,Higher Education lower,2725
+M,45-48,BC,DCS2,Higher Education upper,2910
+M,45-48,BC,DCS2,Low Education,765
+M,45-48,BC,DCS2,Medium Education,4680
+M,45-48,BC,Non_DCS,Higher Education lower,10835
+M,45-48,BC,Non_DCS,Higher Education upper,6855
+M,45-48,BC,Non_DCS,Low Education,7135
+M,45-48,BC,Non_DCS,Medium Education,22960
+M,45-48,MB,DCS1,Higher Education lower,5045
+M,45-48,MB,DCS1,Higher Education upper,5550
+M,45-48,MB,DCS1,Low Education,3055
+M,45-48,MB,DCS1,Medium Education,7430
+M,45-48,MB,Non_DCS,Higher Education lower,2640
+M,45-48,MB,Non_DCS,Higher Education upper,1385
+M,45-48,MB,Non_DCS,Low Education,2765
+M,45-48,MB,Non_DCS,Medium Education,5290
+M,45-48,NB,Non_DCS,Higher Education lower,5305
+M,45-48,NB,Non_DCS,Higher Education upper,3645
+M,45-48,NB,Non_DCS,Low Education,4220
+M,45-48,NB,Non_DCS,Medium Education,10305
+M,45-48,NL,DCS1,Higher Education lower,1760
+M,45-48,NL,DCS1,Higher Education upper,1300
+M,45-48,NL,DCS1,Low Education,760
+M,45-48,NL,DCS1,Medium Education,2230
+M,45-48,NL,Non_DCS,Higher Education lower,2340
+M,45-48,NL,Non_DCS,Higher Education upper,800
+M,45-48,NL,Non_DCS,Low Education,2945
+M,45-48,NL,Non_DCS,Medium Education,4325
+M,45-48,NS,DCS1,Higher Education lower,2615
+M,45-48,NS,DCS1,Higher Education upper,3210
+M,45-48,NS,DCS1,Low Education,1335
+M,45-48,NS,DCS1,Medium Education,4355
+M,45-48,NS,Non_DCS,Higher Education lower,4215
+M,45-48,NS,Non_DCS,Higher Education upper,1840
+M,45-48,NS,Non_DCS,Low Education,3700
+M,45-48,NS,Non_DCS,Medium Education,7270
+M,45-48,ON,DCS1,Higher Education lower,7290
+M,45-48,ON,DCS1,Higher Education upper,6760
+M,45-48,ON,DCS1,Low Education,2315
+M,45-48,ON,DCS1,Medium Education,8425
+M,45-48,ON,DCS2,Higher Education lower,6425
+M,45-48,ON,DCS2,Higher Education upper,11425
+M,45-48,ON,DCS2,Low Education,2065
+M,45-48,ON,DCS2,Medium Education,5960
+M,45-48,ON,Non_DCS,Higher Education lower,92135
+M,45-48,ON,Non_DCS,Higher Education upper,90090
+M,45-48,ON,Non_DCS,Low Education,41460
+M,45-48,ON,Non_DCS,Medium Education,129040
+M,45-48,PE,Non_DCS,Higher Education lower,915
+M,45-48,PE,Non_DCS,Higher Education upper,835
+M,45-48,PE,Non_DCS,Low Education,795
+M,45-48,PE,Non_DCS,Medium Education,1785
+M,45-48,QC,DCS1,Higher Education lower,18315
+M,45-48,QC,DCS1,Higher Education upper,25760
+M,45-48,QC,DCS1,Low Education,10610
+M,45-48,QC,DCS1,Medium Education,27890
+M,45-48,QC,DCS2,Higher Education lower,1405
+M,45-48,QC,DCS2,Higher Education upper,1325
+M,45-48,QC,DCS2,Low Education,1120
+M,45-48,QC,DCS2,Medium Education,3290
+M,45-48,QC,Non_DCS,Higher Education lower,33815
+M,45-48,QC,Non_DCS,Higher Education upper,23660
+M,45-48,QC,Non_DCS,Low Education,23785
+M,45-48,QC,Non_DCS,Medium Education,71010
+M,45-48,SK,Non_DCS,Higher Education lower,4790
+M,45-48,SK,Non_DCS,Higher Education upper,4395
+M,45-48,SK,Non_DCS,Low Education,4890
+M,45-48,SK,Non_DCS,Medium Education,12700
+M,49-54,AB,DCS1,Higher Education lower,12670
+M,49-54,AB,DCS1,Higher Education upper,16235
+M,49-54,AB,DCS1,Low Education,6065
+M,49-54,AB,DCS1,Medium Education,17570
+M,49-54,AB,Non_DCS,Higher Education lower,23200
+M,49-54,AB,Non_DCS,Higher Education upper,16195
+M,49-54,AB,Non_DCS,Low Education,19060
+M,49-54,AB,Non_DCS,Medium Education,53050
+M,49-54,BC,DCS1,Higher Education lower,24275
+M,49-54,BC,DCS1,Higher Education upper,30340
+M,49-54,BC,DCS1,Low Education,10965
+M,49-54,BC,DCS1,Medium Education,36990
+M,49-54,BC,DCS2,Higher Education lower,3670
+M,49-54,BC,DCS2,Higher Education upper,4235
+M,49-54,BC,DCS2,Low Education,1535
+M,49-54,BC,DCS2,Medium Education,6830
+M,49-54,BC,Non_DCS,Higher Education lower,17210
+M,49-54,BC,Non_DCS,Higher Education upper,10130
+M,49-54,BC,Non_DCS,Low Education,13605
+M,49-54,BC,Non_DCS,Medium Education,39835
+M,49-54,MB,DCS1,Higher Education lower,6930
+M,49-54,MB,DCS1,Higher Education upper,7435
+M,49-54,MB,DCS1,Low Education,5435
+M,49-54,MB,DCS1,Medium Education,11825
+M,49-54,MB,Non_DCS,Higher Education lower,3840
+M,49-54,MB,Non_DCS,Higher Education upper,1810
+M,49-54,MB,Non_DCS,Low Education,5335
+M,49-54,MB,Non_DCS,Medium Education,8385
+M,49-54,NB,Non_DCS,Higher Education lower,6780
+M,49-54,NB,Non_DCS,Higher Education upper,4785
+M,49-54,NB,Non_DCS,Low Education,8025
+M,49-54,NB,Non_DCS,Medium Education,15980
+M,49-54,NL,DCS1,Higher Education lower,2310
+M,49-54,NL,DCS1,Higher Education upper,1575
+M,49-54,NL,DCS1,Low Education,1345
+M,49-54,NL,DCS1,Medium Education,3560
+M,49-54,NL,Non_DCS,Higher Education lower,3265
+M,49-54,NL,Non_DCS,Higher Education upper,1020
+M,49-54,NL,Non_DCS,Low Education,4765
+M,49-54,NL,Non_DCS,Medium Education,6960
+M,49-54,NS,DCS1,Higher Education lower,4005
+M,49-54,NS,DCS1,Higher Education upper,4115
+M,49-54,NS,DCS1,Low Education,2205
+M,49-54,NS,DCS1,Medium Education,6420
+M,49-54,NS,Non_DCS,Higher Education lower,6050
+M,49-54,NS,Non_DCS,Higher Education upper,3025
+M,49-54,NS,Non_DCS,Low Education,6615
+M,49-54,NS,Non_DCS,Medium Education,11960
+M,49-54,ON,DCS1,Higher Education lower,9560
+M,49-54,ON,DCS1,Higher Education upper,7995
+M,49-54,ON,DCS1,Low Education,4250
+M,49-54,ON,DCS1,Medium Education,13475
+M,49-54,ON,DCS2,Higher Education lower,8800
+M,49-54,ON,DCS2,Higher Education upper,13865
+M,49-54,ON,DCS2,Low Education,3125
+M,49-54,ON,DCS2,Medium Education,9500
+M,49-54,ON,Non_DCS,Higher Education lower,126550
+M,49-54,ON,Non_DCS,Higher Education upper,119235
+M,49-54,ON,Non_DCS,Low Education,73125
+M,49-54,ON,Non_DCS,Medium Education,193345
+M,49-54,PE,Non_DCS,Higher Education lower,1365
+M,49-54,PE,Non_DCS,Higher Education upper,975
+M,49-54,PE,Non_DCS,Low Education,1540
+M,49-54,PE,Non_DCS,Medium Education,2425
+M,49-54,QC,DCS1,Higher Education lower,25740
+M,49-54,QC,DCS1,Higher Education upper,33685
+M,49-54,QC,DCS1,Low Education,18750
+M,49-54,QC,DCS1,Medium Education,42000
+M,49-54,QC,DCS2,Higher Education lower,1855
+M,49-54,QC,DCS2,Higher Education upper,1705
+M,49-54,QC,DCS2,Low Education,2390
+M,49-54,QC,DCS2,Medium Education,4965
+M,49-54,QC,Non_DCS,Higher Education lower,46020
+M,49-54,QC,Non_DCS,Higher Education upper,33515
+M,49-54,QC,Non_DCS,Low Education,50995
+M,49-54,QC,Non_DCS,Medium Education,115875
+M,49-54,SK,Non_DCS,Higher Education lower,7730
+M,49-54,SK,Non_DCS,Higher Education upper,5565
+M,49-54,SK,Non_DCS,Low Education,8850
+M,49-54,SK,Non_DCS,Medium Education,22180
+M,55-64,AB,DCS1,Higher Education lower,13790
+M,55-64,AB,DCS1,Higher Education upper,21000
+M,55-64,AB,DCS1,Low Education,6650
+M,55-64,AB,DCS1,Medium Education,21230
+M,55-64,AB,Non_DCS,Higher Education lower,28805
+M,55-64,AB,Non_DCS,Higher Education upper,25550
+M,55-64,AB,Non_DCS,Low Education,22470
+M,55-64,AB,Non_DCS,Medium Education,63330
+M,55-64,BC,DCS1,Higher Education lower,30010
+M,55-64,BC,DCS1,Higher Education upper,41855
+M,55-64,BC,DCS1,Low Education,16620
+M,55-64,BC,DCS1,Medium Education,49645
+M,55-64,BC,DCS2,Higher Education lower,6120
+M,55-64,BC,DCS2,Higher Education upper,8420
+M,55-64,BC,DCS2,Low Education,2240
+M,55-64,BC,DCS2,Medium Education,10520
+M,55-64,BC,Non_DCS,Higher Education lower,25475
+M,55-64,BC,Non_DCS,Higher Education upper,20465
+M,55-64,BC,Non_DCS,Low Education,19815
+M,55-64,BC,Non_DCS,Medium Education,58190
+M,55-64,MB,DCS1,Higher Education lower,8750
+M,55-64,MB,DCS1,Higher Education upper,10160
+M,55-64,MB,DCS1,Low Education,6495
+M,55-64,MB,DCS1,Medium Education,15490
+M,55-64,MB,Non_DCS,Higher Education lower,4660
+M,55-64,MB,Non_DCS,Higher Education upper,3835
+M,55-64,MB,Non_DCS,Low Education,8315
+M,55-64,MB,Non_DCS,Medium Education,11490
+M,55-64,NB,Non_DCS,Higher Education lower,9010
+M,55-64,NB,Non_DCS,Higher Education upper,8010
+M,55-64,NB,Non_DCS,Low Education,14145
+M,55-64,NB,Non_DCS,Medium Education,23675
+M,55-64,NL,DCS1,Higher Education lower,2690
+M,55-64,NL,DCS1,Higher Education upper,2575
+M,55-64,NL,DCS1,Low Education,1965
+M,55-64,NL,DCS1,Medium Education,4585
+M,55-64,NL,Non_DCS,Higher Education lower,4690
+M,55-64,NL,Non_DCS,Higher Education upper,2255
+M,55-64,NL,Non_DCS,Low Education,9140
+M,55-64,NL,Non_DCS,Medium Education,11080
+M,55-64,NS,DCS1,Higher Education lower,3970
+M,55-64,NS,DCS1,Higher Education upper,6250
+M,55-64,NS,DCS1,Low Education,2880
+M,55-64,NS,DCS1,Medium Education,8010
+M,55-64,NS,Non_DCS,Higher Education lower,8710
+M,55-64,NS,Non_DCS,Higher Education upper,6730
+M,55-64,NS,Non_DCS,Low Education,10805
+M,55-64,NS,Non_DCS,Medium Education,17815
+M,55-64,ON,DCS1,Higher Education lower,11120
+M,55-64,ON,DCS1,Higher Education upper,11040
+M,55-64,ON,DCS1,Low Education,6715
+M,55-64,ON,DCS1,Medium Education,16515
+M,55-64,ON,DCS2,Higher Education lower,10235
+M,55-64,ON,DCS2,Higher Education upper,19845
+M,55-64,ON,DCS2,Low Education,4280
+M,55-64,ON,DCS2,Medium Education,12575
+M,55-64,ON,Non_DCS,Higher Education lower,151105
+M,55-64,ON,Non_DCS,Higher Education upper,160350
+M,55-64,ON,Non_DCS,Low Education,110270
+M,55-64,ON,Non_DCS,Medium Education,259300
+M,55-64,PE,Non_DCS,Higher Education lower,1720
+M,55-64,PE,Non_DCS,Higher Education upper,1785
+M,55-64,PE,Non_DCS,Low Education,2235
+M,55-64,PE,Non_DCS,Medium Education,4295
+M,55-64,QC,DCS1,Higher Education lower,29845
+M,55-64,QC,DCS1,Higher Education upper,42940
+M,55-64,QC,DCS1,Low Education,26850
+M,55-64,QC,DCS1,Medium Education,57435
+M,55-64,QC,DCS2,Higher Education lower,3010
+M,55-64,QC,DCS2,Higher Education upper,3055
+M,55-64,QC,DCS2,Low Education,3635
+M,55-64,QC,DCS2,Medium Education,7800
+M,55-64,QC,Non_DCS,Higher Education lower,62645
+M,55-64,QC,Non_DCS,Higher Education upper,51980
+M,55-64,QC,Non_DCS,Low Education,73005
+M,55-64,QC,Non_DCS,Medium Education,161870
+M,55-64,SK,Non_DCS,Higher Education lower,9795
+M,55-64,SK,Non_DCS,Higher Education upper,9920
+M,55-64,SK,Non_DCS,Low Education,11925
+M,55-64,SK,Non_DCS,Medium Education,29265
+M,65-74,AB,DCS1,Higher Education lower,5650
+M,65-74,AB,DCS1,Higher Education upper,8110
+M,65-74,AB,DCS1,Low Education,4825
+M,65-74,AB,DCS1,Medium Education,9660
+M,65-74,AB,Non_DCS,Higher Education lower,12390
+M,65-74,AB,Non_DCS,Higher Education upper,12090
+M,65-74,AB,Non_DCS,Low Education,20250
+M,65-74,AB,Non_DCS,Medium Education,28855
+M,65-74,BC,DCS1,Higher Education lower,14785
+M,65-74,BC,DCS1,Higher Education upper,19655
+M,65-74,BC,DCS1,Low Education,13980
+M,65-74,BC,DCS1,Medium Education,27210
+M,65-74,BC,DCS2,Higher Education lower,3300
+M,65-74,BC,DCS2,Higher Education upper,5480
+M,65-74,BC,DCS2,Low Education,2170
+M,65-74,BC,DCS2,Medium Education,5600
+M,65-74,BC,Non_DCS,Higher Education lower,14240
+M,65-74,BC,Non_DCS,Higher Education upper,13475
+M,65-74,BC,Non_DCS,Low Education,18230
+M,65-74,BC,Non_DCS,Medium Education,34870
+M,65-74,MB,DCS1,Higher Education lower,4095
+M,65-74,MB,DCS1,Higher Education upper,4745
+M,65-74,MB,DCS1,Low Education,5800
+M,65-74,MB,DCS1,Medium Education,8530
+M,65-74,MB,Non_DCS,Higher Education lower,2600
+M,65-74,MB,Non_DCS,Higher Education upper,2210
+M,65-74,MB,Non_DCS,Low Education,7185
+M,65-74,MB,Non_DCS,Medium Education,5990
+M,65-74,NB,Non_DCS,Higher Education lower,4445
+M,65-74,NB,Non_DCS,Higher Education upper,4115
+M,65-74,NB,Non_DCS,Low Education,12435
+M,65-74,NB,Non_DCS,Medium Education,11045
+M,65-74,NL,DCS1,Higher Education lower,1425
+M,65-74,NL,DCS1,Higher Education upper,1455
+M,65-74,NL,DCS1,Low Education,1590
+M,65-74,NL,DCS1,Medium Education,2675
+M,65-74,NL,Non_DCS,Higher Education lower,2175
+M,65-74,NL,Non_DCS,Higher Education upper,1105
+M,65-74,NL,Non_DCS,Low Education,7390
+M,65-74,NL,Non_DCS,Medium Education,5820
+M,65-74,NS,DCS1,Higher Education lower,2200
+M,65-74,NS,DCS1,Higher Education upper,2975
+M,65-74,NS,DCS1,Low Education,2415
+M,65-74,NS,DCS1,Medium Education,4275
+M,65-74,NS,Non_DCS,Higher Education lower,3785
+M,65-74,NS,Non_DCS,Higher Education upper,3610
+M,65-74,NS,Non_DCS,Low Education,10390
+M,65-74,NS,Non_DCS,Medium Education,11110
+M,65-74,ON,DCS1,Higher Education lower,5520
+M,65-74,ON,DCS1,Higher Education upper,6045
+M,65-74,ON,DCS1,Low Education,7385
+M,65-74,ON,DCS1,Medium Education,9945
+M,65-74,ON,DCS2,Higher Education lower,4665
+M,65-74,ON,DCS2,Higher Education upper,11080
+M,65-74,ON,DCS2,Low Education,3100
+M,65-74,ON,DCS2,Medium Education,7220
+M,65-74,ON,Non_DCS,Higher Education lower,71945
+M,65-74,ON,Non_DCS,Higher Education upper,83030
+M,65-74,ON,Non_DCS,Low Education,108720
+M,65-74,ON,Non_DCS,Medium Education,150630
+M,65-74,PE,Non_DCS,Higher Education lower,685
+M,65-74,PE,Non_DCS,Higher Education upper,860
+M,65-74,PE,Non_DCS,Low Education,1710
+M,65-74,PE,Non_DCS,Medium Education,2535
+M,65-74,QC,DCS1,Higher Education lower,14885
+M,65-74,QC,DCS1,Higher Education upper,22245
+M,65-74,QC,DCS1,Low Education,25645
+M,65-74,QC,DCS1,Medium Education,35025
+M,65-74,QC,DCS2,Higher Education lower,1335
+M,65-74,QC,DCS2,Higher Education upper,2135
+M,65-74,QC,DCS2,Low Education,3295
+M,65-74,QC,DCS2,Medium Education,4835
+M,65-74,QC,Non_DCS,Higher Education lower,29465
+M,65-74,QC,Non_DCS,Higher Education upper,29925
+M,65-74,QC,Non_DCS,Low Education,69195
+M,65-74,QC,Non_DCS,Medium Education,85435
+M,65-74,SK,Non_DCS,Higher Education lower,4250
+M,65-74,SK,Non_DCS,Higher Education upper,5550
+M,65-74,SK,Non_DCS,Low Education,12140
+M,65-74,SK,Non_DCS,Medium Education,12935
+M,75-85,AB,DCS1,Higher Education lower,2470
+M,75-85,AB,DCS1,Higher Education upper,3385
+M,75-85,AB,DCS1,Low Education,4375
+M,75-85,AB,DCS1,Medium Education,5610
+M,75-85,AB,Non_DCS,Higher Education lower,5090
+M,75-85,AB,Non_DCS,Higher Education upper,4440
+M,75-85,AB,Non_DCS,Low Education,16610
+M,75-85,AB,Non_DCS,Medium Education,15480
+M,75-85,BC,DCS1,Higher Education lower,7275
+M,75-85,BC,DCS1,Higher Education upper,8970
+M,75-85,BC,DCS1,Low Education,13250
+M,75-85,BC,DCS1,Medium Education,16230
+M,75-85,BC,DCS2,Higher Education lower,1835
+M,75-85,BC,DCS2,Higher Education upper,2645
+M,75-85,BC,DCS2,Low Education,1830
+M,75-85,BC,DCS2,Medium Education,3560
+M,75-85,BC,Non_DCS,Higher Education lower,7160
+M,75-85,BC,Non_DCS,Higher Education upper,5340
+M,75-85,BC,Non_DCS,Low Education,15385
+M,75-85,BC,Non_DCS,Medium Education,19445
+M,75-85,MB,DCS1,Higher Education lower,1830
+M,75-85,MB,DCS1,Higher Education upper,2265
+M,75-85,MB,DCS1,Low Education,4365
+M,75-85,MB,DCS1,Medium Education,5190
+M,75-85,MB,Non_DCS,Higher Education lower,940
+M,75-85,MB,Non_DCS,Higher Education upper,830
+M,75-85,MB,Non_DCS,Low Education,5525
+M,75-85,MB,Non_DCS,Medium Education,3285
+M,75-85,NB,Non_DCS,Higher Education lower,1585
+M,75-85,NB,Non_DCS,Higher Education upper,1480
+M,75-85,NB,Non_DCS,Low Education,8235
+M,75-85,NB,Non_DCS,Medium Education,5340
+M,75-85,NL,DCS1,Higher Education lower,505
+M,75-85,NL,DCS1,Higher Education upper,315
+M,75-85,NL,DCS1,Low Education,890
+M,75-85,NL,DCS1,Medium Education,980
+M,75-85,NL,Non_DCS,Higher Education lower,485
+M,75-85,NL,Non_DCS,Higher Education upper,150
+M,75-85,NL,Non_DCS,Low Education,5230
+M,75-85,NL,Non_DCS,Medium Education,1830
+M,75-85,NS,DCS1,Higher Education lower,1070
+M,75-85,NS,DCS1,Higher Education upper,1120
+M,75-85,NS,DCS1,Low Education,1550
+M,75-85,NS,DCS1,Medium Education,2270
+M,75-85,NS,Non_DCS,Higher Education lower,1500
+M,75-85,NS,Non_DCS,Higher Education upper,1405
+M,75-85,NS,Non_DCS,Low Education,6925
+M,75-85,NS,Non_DCS,Medium Education,4650
+M,75-85,ON,DCS1,Higher Education lower,2700
+M,75-85,ON,DCS1,Higher Education upper,2475
+M,75-85,ON,DCS1,Low Education,6345
+M,75-85,ON,DCS1,Medium Education,6440
+M,75-85,ON,DCS2,Higher Education lower,2475
+M,75-85,ON,DCS2,Higher Education upper,4695
+M,75-85,ON,DCS2,Low Education,3340
+M,75-85,ON,DCS2,Medium Education,4700
+M,75-85,ON,Non_DCS,Higher Education lower,33965
+M,75-85,ON,Non_DCS,Higher Education upper,36095
+M,75-85,ON,Non_DCS,Low Education,89930
+M,75-85,ON,Non_DCS,Medium Education,82160
+M,75-85,PE,Non_DCS,Higher Education lower,445
+M,75-85,PE,Non_DCS,Higher Education upper,360
+M,75-85,PE,Non_DCS,Low Education,1415
+M,75-85,PE,Non_DCS,Medium Education,1055
+M,75-85,QC,DCS1,Higher Education lower,6740
+M,75-85,QC,DCS1,Higher Education upper,9525
+M,75-85,QC,DCS1,Low Education,22715
+M,75-85,QC,DCS1,Medium Education,20140
+M,75-85,QC,DCS2,Higher Education lower,525
+M,75-85,QC,DCS2,Higher Education upper,765
+M,75-85,QC,DCS2,Low Education,2290
+M,75-85,QC,DCS2,Medium Education,1720
+M,75-85,QC,Non_DCS,Higher Education lower,9060
+M,75-85,QC,Non_DCS,Higher Education upper,9160
+M,75-85,QC,Non_DCS,Low Education,47605
+M,75-85,QC,Non_DCS,Medium Education,32040
+M,75-85,SK,Non_DCS,Higher Education lower,2390
+M,75-85,SK,Non_DCS,Higher Education upper,1855
+M,75-85,SK,Non_DCS,Low Education,11375
+M,75-85,SK,Non_DCS,Medium Education,7410
